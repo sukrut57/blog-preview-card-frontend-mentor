@@ -71,6 +71,11 @@ img{
     font-weight: 700;
 }
 
+.title:hover{
+    cursor: pointer;
+    color: hsl(47, 88%, 63%);
+}
+
 .content{
     color: hsl(0, 0%, 42%);
     line-height: 1.3rem;
